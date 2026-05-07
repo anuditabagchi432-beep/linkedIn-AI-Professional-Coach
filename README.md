@@ -70,6 +70,6 @@ https://agent.ai/agent/5xgdmxu488ax8otk
 # Acknowledgements
 Inspired by Agentic AI tutorials and educational content from Soumya Singh on YouTube.
 
-## 👨‍💻 Author
+# Author
 
-Created by [Your Name]
+Created by Anudita Bagchi
